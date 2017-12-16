@@ -1,0 +1,8 @@
+diff a/index.txt b/index.txt	(rejected hunks)
+@@ -1 +1,3 @@
+-index
+\ No newline at end of file
++index
++
++sua 1
+\ No newline at end of file
